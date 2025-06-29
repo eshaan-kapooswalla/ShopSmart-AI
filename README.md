@@ -193,17 +193,14 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **eshaan**  
-- GitHub: [@eshaan](https://github.com/yourusername)  
-- Email: your.email@example.com  
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
-
+ 
+- Email: eshaank@my.yorku.ca
+-
 ## 🙏 Acknowledgments
 
 - Dataset provided by Walmart e-commerce
@@ -212,6 +209,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors who helped improve this project
 
 ---
-<p align="center">
-  Made with ❤️ by eshaan • 2025
-</p>
